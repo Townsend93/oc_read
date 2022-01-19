@@ -1,0 +1,35 @@
+1. UIViewController 生命周期
+
+2. 响应者链
+
+3. 深拷贝和浅拷贝
+
+4. Block 理解
+
+5. Kvc 查找原理
+
+6. KVO 原理
+
+7. weak, assgin的区别
+
+8. MVC,MVVM架构
+
+9. object对象本质？isa指针, runtime项目中的运用
+
+10. objc_msgSend 消息机制, 消息转发
+
+11. category
+
+12. Autorelease pool 原理，autorelease 对象释放时机
+
+13. Runloop 
+
+14. 多线程
+
+# Swift 相关
+
+1. Swift  class与struct的区别
+
+# Flutter 相关
+
+1. Flutter 嵌入原生问题
